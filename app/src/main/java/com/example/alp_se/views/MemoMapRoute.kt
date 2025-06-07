@@ -15,9 +15,9 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.example.alp.navigation.Screen // Your Screen sealed class
-import com.example.alp.viewmodels.AuthenticationViewModel
-import com.example.alp.viewmodels.MemoryViewModel
+import com.example.alp_se.navigation.Screen // Your Screen sealed class
+import com.example.alp_se.viewmodels.AuthenticationViewModel
+import com.example.alp_se.viewmodels.MemoryViewModel
 
 // Import your actual view composables
 // import com.example.alp.views.LoginRegisterView
