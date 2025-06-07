@@ -7,10 +7,10 @@ import androidx.lifecycle.ViewModelProvider.AndroidViewModelFactory.Companion.AP
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.initializer
 import androidx.lifecycle.viewmodel.viewModelFactory
-import com.example.alp.MemoMapApplication // Assuming this is your Application class
-import com.example.alp.models.MemoryPost
-import com.example.alp.repositories.MemoryRepository
-import com.example.alp.repositories.UserRepository // Added UserRepository dependency
+import com.example.alp_se.MemoMapApplication // Assuming this is your Application class
+import com.example.alp_se.models.MemoryPost
+import com.example.alp_se.repositories.MemoryRepository
+import com.example.alp_se.repositories.UserRepository // Added UserRepository dependency
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow

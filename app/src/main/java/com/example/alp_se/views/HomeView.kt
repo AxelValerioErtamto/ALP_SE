@@ -19,11 +19,11 @@ import androidx.navigation.NavHostController
 import androidx.compose.foundation.Image
 import androidx.compose.ui.layout.ContentScale
 import coil.compose.rememberAsyncImagePainter
-import com.example.alp.models.MemoryPost
-import com.example.alp.navigation.Screen // Assuming Screen object is correctly defined
-import com.example.alp.viewmodels.MemoryViewModel
+import com.example.alp_se.models.MemoryPost
+import com.example.alp_se.navigation.Screen // Assuming Screen object is correctly defined
+import com.example.alp_se.viewmodels.MemoryViewModel
 import android.net.Uri
-import com.example.alp.viewmodels.AuthenticationViewModel
+import com.example.alp_se.viewmodels.AuthenticationViewModel
 
 
 @OptIn(ExperimentalMaterial3Api::class)
