@@ -26,9 +26,9 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import coil.compose.rememberAsyncImagePainter
-import com.example.alp.viewmodels.AuthenticationViewModel
-import com.example.alp.viewmodels.MemoryViewModel
-import com.example.alp.utils.*
+import com.example.alp_se.viewmodels.AuthenticationViewModel
+import com.example.alp_se.viewmodels.MemoryViewModel
+import com.example.alp_se.utils.*
 
 const val MAX_IMAGE_SIZE_BYTES_CREATE = 15 * 1024 * 1024
 
