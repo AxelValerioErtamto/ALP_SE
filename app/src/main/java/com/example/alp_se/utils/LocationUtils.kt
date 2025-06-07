@@ -1,4 +1,4 @@
-package com.example.alp.utils // Your package
+package com.example.alp_se.utils // Your package
 
 import android.Manifest
 import android.app.Activity
