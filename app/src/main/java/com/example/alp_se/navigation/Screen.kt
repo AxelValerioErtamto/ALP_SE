@@ -1,4 +1,4 @@
-package com.example.alp.navigation
+package com.example.alp_se.navigation
 
 sealed class Screen(val route: String) {
     object LoginRegister : Screen("login_register_screen")
